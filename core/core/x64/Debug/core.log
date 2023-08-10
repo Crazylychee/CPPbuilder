@@ -1,0 +1,3 @@
+﻿  core.cpp
+E:\重要文件及作业\QG项目集合\web编译器\后台代码\core\core\core\core.cpp(15,10): warning C4101: “buffer”: 未引用的局部变量
+  core.vcxproj -> E:\重要文件及作业\QG项目集合\web编译器\后台代码\core\core\x64\Debug\core.exe
